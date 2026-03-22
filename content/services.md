@@ -1,0 +1,20 @@
+---
+title: "3D Print Color Services"
+type: "page"
+layout: "services"
+description: "Professional full-colour and multi-colour 3D printing services — Full-colour additive manufacturing — photorealistic multi-colour parts, CMYK binder jetting, and colour-matched prototypes for product design and communication."
+heroImage: "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=1920&q=80"
+process:
+  - step: "01"
+    title: "Consultation"
+    text: "We review your requirements, material specs, tolerances, and production volume to recommend the optimal process."
+  - step: "02"
+    title: "Design Review"
+    text: "DfAM analysis ensures your design is optimised for the chosen process — wall thickness, support strategy, and feature resolution."
+  - step: "03"
+    title: "Production"
+    text: "Parts produced to specification with full process monitoring, quality control, and material traceability."
+  - step: "04"
+    title: "Delivery"
+    text: "Inspection, finishing, and delivery with full documentation and material certification where required."
+---
